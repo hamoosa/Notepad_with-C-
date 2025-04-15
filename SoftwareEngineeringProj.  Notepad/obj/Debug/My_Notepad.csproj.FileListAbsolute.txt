@@ -1,0 +1,11 @@
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\bin\Debug\My_Notepad.exe.config
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\bin\Debug\My_Notepad.exe
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\bin\Debug\My_Notepad.pdb
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\My_Notepad.csprojAssemblyReference.cache
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\My_Notepad.About.resources
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\My_Notepad.Properties.Resources.resources
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\My_Notepad.csproj.GenerateResource.cache
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\My_Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\My_Notepad.exe
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\My_Notepad.pdb
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\My_Notepad.Form1.resources

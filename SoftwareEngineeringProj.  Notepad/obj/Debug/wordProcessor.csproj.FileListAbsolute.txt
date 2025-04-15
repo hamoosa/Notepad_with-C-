@@ -1,0 +1,10 @@
+C:\Users\Hams\source\repos\wordProcessor\wordProcessor\bin\Debug\wordProcessor.exe.config
+C:\Users\Hams\source\repos\wordProcessor\wordProcessor\bin\Debug\wordProcessor.exe
+C:\Users\Hams\source\repos\wordProcessor\wordProcessor\bin\Debug\wordProcessor.pdb
+C:\Users\Hams\source\repos\wordProcessor\wordProcessor\obj\Debug\wordProcessor.csprojAssemblyReference.cache
+C:\Users\Hams\source\repos\wordProcessor\wordProcessor\obj\Debug\wordProcessor.Form1.resources
+C:\Users\Hams\source\repos\wordProcessor\wordProcessor\obj\Debug\wordProcessor.Properties.Resources.resources
+C:\Users\Hams\source\repos\wordProcessor\wordProcessor\obj\Debug\wordProcessor.csproj.GenerateResource.cache
+C:\Users\Hams\source\repos\wordProcessor\wordProcessor\obj\Debug\wordProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Hams\source\repos\wordProcessor\wordProcessor\obj\Debug\wordProcessor.exe
+C:\Users\Hams\source\repos\wordProcessor\wordProcessor\obj\Debug\wordProcessor.pdb

@@ -1,0 +1,12 @@
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\bin\Debug\notepad.exe.config
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\bin\Debug\notepad.exe
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\bin\Debug\notepad.pdb
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\notepad.csprojAssemblyReference.cache
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\WindowsFormsApp.FindAndReplaceForm.resources
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\notepad.Form1.resources
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\notepad.Properties.Resources.resources
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\notepad.csproj.GenerateResource.cache
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\notepad.csproj.CoreCompileInputs.cache
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\notepad.exe
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\notepad.pdb
+C:\Users\Hams\OneDrive\Documents\GitHub\SoftwareEngineeringProj\obj\Debug\notepad.Form2.resources
