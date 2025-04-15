@@ -14,3 +14,4 @@ Implement a word processor which allows the user to perform the following action
 -	Cut or copy text from a randomly selected location on the page as well as paste the cut or copied text to a randomly selected location on the page.
 -	When a line is filled with text, the cursor will automatically move to the next line.
 -	Create headers, footers and page numbers.
+![Capture](https://github.com/user-attachments/assets/d328cbd4-baa0-4992-b632-0c35262aec94)
